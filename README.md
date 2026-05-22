@@ -1,2 +1,3 @@
 # python-beginner-projects
-These are my first beginner Python mini projects made while learning Python fundamentals.  ## Projects Included 1. Student Info Card Generator   ## Concepts Used - Variables - Data Types - Input/Output - Operators - Typecasting  More projects coming soon :)
+These are my beginner Python projects created while learning Python fundamentals and problem-solving.
+I’m currently learning Python step-by-step and building mini projects to improve my coding skills consistently.
