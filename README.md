@@ -19,4 +19,4 @@ I’m currently learning Python step-by-step and building mini projects to impro
 - String Handling
 - Basic Problem Solving
 
-  More projects coming soon as I continue my Python journey ✨
+More projects coming soon as I continue my Python journey ✨
